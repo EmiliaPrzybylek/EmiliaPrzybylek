@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmiliaPrzybylek
 - 👀 I’m interested in audio engineering and programming
-- 🌱 I’m currently learning CSS/SCSS and JavaScript
+- 🌱 I’m currently perfecting CSS/SCSS and learning JavaScript
 - 💞️ I’m looking for a job as Front-end Developer
 - 📫 How to reach me: emiliaprzybylek@tutamail.com
 
