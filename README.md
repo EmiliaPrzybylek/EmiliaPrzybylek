@@ -1,6 +1,6 @@
  <h1>👋 Hello World! </h1>
-      👩‍💻 I’m Emilia. My hobby is drawing and music. I am excited about new technologies and I like to learn new things. 💎  <br>
-      <br>
+  <p>👩‍💻 I’m Emilia. My hobby is drawing, music and coding. I like to learn new things. 💎</p>
+      
  📘 Practice: Bootstrap, JavaScript<br>
  🕊 Contact: emiliaprzybylek@tutamail.com<br>
  
