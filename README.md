@@ -1,7 +1,7 @@
  <h1>👋 Hello World! </h1>
   <p>👩‍💻 I’m Emilia. My hobby is drawing, music and coding. I like to learn new things. 💎</p>
   
- <a href="https://www.instagram.com/aire.linn/">Instagram z rysunkami</a>
+ <a href="https://www.instagram.com/aire.linn/">Instagram</a>
       
  📘 Practice: SASS, JavaScript<br>
  🕊 Contact: emiliaprzybylek@tutamail.com<br>
