@@ -1,12 +1,13 @@
  <h1>👋 Hello World! </h1>
   <p>👩‍💻 I’m Emilia. My hobby is drawing, music and coding. I like to learn new things. 💎</p>
   
- <a href="https://www.instagram.com/aire.linn/">Instagram</a>
       
  📘 Practice: SASS, JavaScript<br>
  🕊 Contact: emiliaprzybylek@tutamail.com<br>
  
  <h2>🖥 Projects</h2>
+ <a href="https://github.com/EmiliaPrzybylek/BillsCalculator">BillsCalculator</a>
+ <p> HTML5, CSS3, JavaScript</p>
  <a href="https://github.com/EmiliaPrzybylek/LampDesign-website">LampDesign Website</a>
  <p> HTML5, CSS3, Bootstrap5, JavaScript</p>
  <a href="https://github.com/EmiliaPrzybylek/DrinkSearch">DrinkSearch</a>
