@@ -2,7 +2,7 @@
   <p>👩‍💻 I’m Emilia. My hobby is drawing, music and coding. I like to learn new things and am still working on new projects.💎</p>
   
       
- 📘 Practice: SASS, JavaScript, SQL<br>
+ 📘 Practice: SASS, JavaScript, React<br>
  🕊 Contact: emiliaprzybylek@tutamail.com<br>
  🖥 <a href="https://github.com/EmiliaPrzybylek/My-projects">Projects</a>
  
