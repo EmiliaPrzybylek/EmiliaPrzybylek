@@ -4,6 +4,7 @@
       
  📘 Practice: SASS, JavaScript, SQL<br>
  🕊 Contact: emiliaprzybylek@tutamail.com<br>
+ 🖥 <a href="https://github.com/EmiliaPrzybylek/My-projects">Projects</a>
  
 <!---
 EmiliaPrzybylek/EmiliaPrzybylek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
