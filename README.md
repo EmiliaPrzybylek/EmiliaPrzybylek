@@ -1,5 +1,5 @@
  <h1>👋 Hello World! </h1>
- <p>👩‍💻 I'm Emilia and sometime I  code</p>
+ <p>👩‍💻 I'm Emilia and sometimes I code</p>
  <p> 🖥 <a href="https://github.com/EmiliaPrzybylek/My-projects">Projects</a> </p>
       
 <!---
